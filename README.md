@@ -1,6 +1,6 @@
 
 
-Todo-List-com-Solidity<img style="align=" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="50" height="38" />
+<img style="align=" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="50" height="38" /> <h3>Todo-List-com-Solidity</3>
 
  
 <hr>
